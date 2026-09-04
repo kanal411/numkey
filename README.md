@@ -5,6 +5,7 @@ Functional external numerical keypad using only one keyboard switch on a H-bot k
 - calibration process
 - fully functional numlock
 - H-bot kinematic
+- sacrificial component
 
 # Used parts
 - NEMA17 stepper motors
