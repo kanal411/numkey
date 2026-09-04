@@ -7,7 +7,7 @@ Functional external numerical keypad using only one keyboard switch on a H-bot k
 - H-bot kinematic
 - sacrificial component
 
-# Requirement
+## Requirements
 - Windows PC
 - python 3
 - arduino IDE (or other software to upload firmware to ESP32)
