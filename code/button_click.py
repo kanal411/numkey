@@ -97,7 +97,6 @@ def run(rig=None, position=None):
     _klawiatura.press(klawisz)
     _klawiatura.release(klawisz)
 
-
 if __name__ == "__main__":
     import time
 
