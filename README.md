@@ -28,8 +28,9 @@ Main purpose of this project was for me to learn more about neural networks, con
   4. [`rest.stl`](./models/rest.stl) - no supports.
 ### How to assemble:
   1. Assemble the parts as shown in [`assembly.mp4`](./assets/assembly.mp4).
-  2. Upload [`ESP32_firmware.ino`](./code/ESP32_firmware.ino) to ESP32-S3.
-  3. Connect all the wires accordingly to [`wiring.txt`](./assets/wiring.txt).
+  2. Install the timing belt.
+  3. Upload [`ESP32_firmware.ino`](./code/ESP32_firmware.ino) to ESP32-S3.
+  4. Connect all the wires accordingly to [`wiring.txt`](./assets/wiring.txt).
 ### How to use:
   1. Download all the files from [`code/`](./code/).
   2. Make sure that you have all of the packages listed in [`req.txt`](./req.txt).
