@@ -19,3 +19,10 @@ Main purpose of this project was for me to learn more about neural networks, con
 - arduino IDE (or other software to upload firmware to ESP32)
 
 ## How to make
+- How to print:
+  1. [`chassis.stl`](./models/chassis.stl) - ensure that chosen filament can withstand stepper motors temp, use low layer height/variable layer height, use organic supports.
+  2. [`carriages.stl`](./models/carriages.stl) - use low layer height/variable layer height.
+  3. [`sacrificial.stl`](./models/sacrificial.stl) - exact settings may need tuning for different printers, don't use more then 2 wall loops, use low infill (<=5%).
+  4. [`rest.stl`](./models/rest.stl) - no supports.
+-  How to assembly:
+  1. 
