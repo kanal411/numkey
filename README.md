@@ -24,11 +24,11 @@ Main purpose of this project was for me to learn more about neural networks, con
   2. [`carriages.stl`](./models/carriages.stl) - use low layer height/variable layer height.
   3. [`sacrificial.stl`](./models/sacrificial.stl) - exact settings may need tuning for different printers, don't use more then 2 wall loops, use low infill (<=5%).
   4. [`rest.stl`](./models/rest.stl) - no supports.
--  How to assemble:
+### How to assemble:
   1. Assemble the parts accordingly to [`assembly.mp4`](./assets/assembly.mp4).
   2. Upload [`ESP32_firmware.ino`](./code/ESP32_firmware.ino) to ESP32-S3.
   3. Install all the wires accordingly to [`wiring.jpg`](./assets/wiring.jpg).
--  How to use:
+### How to use:
   1. Download all the files from [`code/`](./code/).
   2. Plug the ESP32 into the PC via USB.
   3. Run [`main_code.py`](./code/main_code.py)
