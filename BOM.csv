@@ -1,0 +1,13 @@
+item,quantity,price,note
+ESP32-S3 + OV2640,1,~16$,
+0.96 OLED I2C 128x64,1,~2.5$,
+DR8825,2,~2$ x 2,I recommend to buy it with radiator
+LM8UU,10,~1.3$ x 10,
+linear rail 8mm,808cm,~10$,"2x 150cm, 2x 168cm, 2x 86cm"
+GT2 6mm timing pulley 5mm bore,2,~2$ x2,
+GT2 6mm smooth pulley 5mm bore,4,~2$ x4,
+GT2 6mm timing belt,120cm,~3$,Exact lenght may vary
+timing belt clamp,2,~0.5$ x2,
+NEMA17 stepper motor,2,~15$ x2,"I took them from ender 3 v2, if you use off-shelf then you have to buy a timing pulley for it"
+limit switch,2,~2$ x2,I took them from ender 3 v2
+total,,~95.5$,
