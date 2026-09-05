@@ -1,0 +1,22 @@
+OLED SDA - GPIO 48
+OLED SCL - GPIO 47
+X safety interlock - GPIO 14
+Y safety interlock - GPIO 21
+motor A dir - GPIO 2
+motor A step - GPIO 1
+motor B dir - GPIO 42
+motor B step - GPIO 41
+
+motor A/B EN - GND from ESP32
+motor A/B M0 - 3.3V from ESP32
+motor A/B M1 - 3.3V from ESP32
+motor A/B M2 - 3.3V from ESP32
+motor A/B RST - 3.3V from ESP32
+motor A/B SLP - 3.3V from ESP32
+motor A/B VMOT - 12V
+motor A/B GN MOT - 12V supply GND
+motor A/B B2 - stepper motor
+motor A/B B1 - stepper motor
+motor A/B A1 - stepper motor
+motor A/B A2 - stepper motor
+motor A/B GND LOGIC -ESP32 GND
