@@ -1,6 +1,8 @@
 # Numkey
 Functional external numerical keypad using only one keyboard switch on a H-bot kinematic.
 
+![photo](./assets/photo.jpg)
+
 ## Features
 - calibration process
 - fully functional numlock
@@ -30,5 +32,6 @@ Main purpose of this project was for me to learn more about neural networks, con
   3. Install all the wires accordingly to [`wiring.txt`](./assets/wiring.txt).
 ### How to use:
   1. Download all the files from [`code/`](./code/).
-  2. Plug the ESP32 into the PC via USB.
-  3. Run [`main_code.py`](./code/main_code.py)
+  2. Make sure that you have all of the packages from [`req.txt`](./req.txt).
+  3. Plug the ESP32 into the PC via USB.
+  4. Run [`main_code.py`](./code/main_code.py)
